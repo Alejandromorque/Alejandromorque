@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alejandromorque
+- 👀 I’m interested in Oracle
+- 🌱 I’m currently learning Alura
